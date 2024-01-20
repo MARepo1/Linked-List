@@ -1,6 +1,6 @@
 
 # CSC240 Homework: LinkedLists Problems
-# Note:
+Note:
 - Some of the code in the problems were provided already. 
 - Mainly the printing function
 
